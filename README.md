@@ -1,19 +1,71 @@
-# 💫 About Me:
-# <h5> Hi there, I'm Kartikeya 👋<br><br>🔭 I’m currently working on:<br>- Developing a web app to encrypt messages using dmtf tomes<br>- Exploring AI and machine learning models<br>- Creating an innovative design<br><br>👯 I’m looking to collaborate on:<br>- Web development projects<br>- Open source contributions<br>- Tech community<br><br>🤝 I’m looking for help with:<br>- Improving my knowledge of advanced data structures<br>- Web app scaling and optimization<br>- Best practices in UI/UX design<br><br>🌱 I’m currently learning:<br>- Java<br>- Photo editing<br>- Advanced data structures and algorithms<br><br>💬 Ask me about:<br>- Web development, especially full-stack<br>- Editing<br>- poster making<br><br>⚡ Fun fact:<br>- I once filmed a night drone show with 250 drones! 🎇<br></h5>
+# Hi, I'm Kartikeya
 
+⚡ I build things on the internet, and in real life. code, clay, paper, chaos. whatever it takes.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@01kar.ti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeya-pappula) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/pkartikeyaraj) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Kartikeya-Pappula) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Leonine_10) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29449768) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/leonine_10) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC47HwpesVbiRIFUqa6apTMw) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=k-artik-k&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=k-artik-k&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k-artik-k&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💫 About Me
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kartikeya.pappula) 
+* 💻 Currently building a private journal app
+* 🌱 Exploring cybersecurity and cloud
+* 🎨 Into editing, poster design, and creative experimentation
+* 🤝 Open to collaborations and open source contributions
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🚀 Projects
+
+### 🔐 Private Journal App
+
+A secure personal diary focused on privacy, clean UI, and real usability
+
+### 🎨 Creative Works
+
+Posters, edits, and visual experiments across digital and physical mediums
+
+### 🌐 Web Projects
+
+Full-stack applications built using React, Node.js, and Supabase
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+C, C++, Java, Python, JavaScript
+
+### Web & App
+
+React, Next.js, Node.js, Express, Flutter
+
+### Tools & Platforms
+
+Supabase, MySQL, Vercel, Render, Git, GitHub
+
+### Creative & Design
+
+Figma, Photoshop, Illustrator, Premiere Pro, Blender
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=k-artik-k\&theme=aura\&hide_border=true\&include_all_commits=true\&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=k-artik-k\&theme=aura\&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=k-artik-k\&theme=aura\&hide_border=true\&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+[Instagram](https://instagram.com/k.artikey.a)
+[LinkedIn](https://linkedin.com/in/kartikeya-pappula)
+[GitHub](https://github.com/k-artik-k)
+[Email](mailto:pkartikeyaraj@gmail.com)
+
+---
+
+![](https://komarev.com/ghpvc/?username=k-artik-k\&color=0)
